@@ -1,6 +1,6 @@
 name = "Glommer&Abigail Sound Removal"
 
-description = ""
+description = "Remove the idle sound of glommer and abigail."
 
 author = "辣椒小皇纸"
 
